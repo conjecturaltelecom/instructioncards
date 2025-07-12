@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 522 180" style="enable-background:new 0 0 522 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#ACA79D;}
+	.st1{fill:#005CB8;}
+	.st2{fill:#F72A19;}
+	.st3{fill:#015DB8;}
+	.st4{fill:#005DB8;}
+	.st5{fill:#005DB6;}
+	.st6{fill:#005DB5;}
+	.st7{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st8{stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:none;}
+	.st10{font-family:'MyriadPro-Bold';}
+	.st11{font-size:24px;}
+	.st12{fill:#ABA49C;stroke:#000000;stroke-miterlimit:10;}
+	.st13{font-family:'Arial-BoldMT';}
+	.st14{font-size:8px;}
+	.st15{font-size:10px;}
+</style>
+<rect class="st0" width="522" height="180"/>
+<rect x="10" y="8" class="st1" width="503" height="18"/>
+<rect x="10" y="58" class="st2" width="128" height="36"/>
+<rect x="10" y="97" class="st3" width="128" height="36"/>
+<rect x="141" y="58" class="st4" width="128" height="36"/>
+<rect x="10" y="137" class="st5" width="128" height="36"/>
+<rect x="141" y="137" class="st6" width="128" height="36"/>
+<rect x="141" y="97" class="st4" width="128" height="36"/>
+<rect x="292" y="58" class="st7" width="102" height="56"/>
+<rect x="292" y="58" class="st7" width="108" height="56"/>
+<rect x="405" y="58" class="st7" width="108" height="56"/>
+<rect x="292" y="58" width="108" height="25"/>
+<rect x="405" y="58" width="108" height="25"/>
+<rect x="291" y="124" width="110" height="31"/>
+<rect x="405" y="124" width="110" height="31"/>
+<rect x="291" y="124" width="110" height="31"/>
+<polygon class="st8" points="423.3,159.5 401,173.3 378.6,159.5 "/>
+<rect x="473.7" y="30.5" class="st9" width="45.5" height="22"/>
+<text transform="matrix(1 0 0 1 473.7295 47.54)" class="st3 st10 st11">Bell</text>
+<path class="st12" d="M412,37.2c0,5.2-4.2,9.5-9.4,9.5c-5.2,0-9.4-4.3-9.4-9.5c0-5.2,4.2-9.5,9.4-9.5C407.8,27.7,412,31.9,412,37.2z
+	"/>
+<polygon class="st8" points="415.9,48.5 403.2,56.3 390.6,48.5 "/>
+<path class="st12" d="M147,37.2c0,5.2-4.2,9.5-9.4,9.5c-5.2,0-9.4-4.3-9.4-9.5c0-5.2,4.2-9.5,9.4-9.5C142.8,27.7,147,31.9,147,37.2z
+	"/>
+<polygon class="st8" points="150.9,48.5 138.2,56.3 125.6,48.5 "/>
+<rect x="12.3" y="80" class="st9" width="66.2" height="10"/>
+<text transform="matrix(1 0 0 1 12.3262 85.7275)" class="st0 st13 st14">EMERGENCY</text>
+<rect x="12.3" y="119" class="st9" width="66.2" height="10"/>
+<text transform="matrix(1 0 0 1 12.3262 124.7275)" class="st0 st13 st14">OPERATOR</text>
+<rect x="12.3" y="152" class="st9" width="66.2" height="18.5"/>
+<text transform="matrix(1 0 0 1 12.3262 157.7275)"><tspan x="0" y="0" class="st0 st13 st14">DIRECTORY</tspan><tspan x="0" y="9.6" class="st0 st13 st14">ASSISTANCE</tspan></text>
+<rect x="146.2" y="156.6" class="st9" width="35.7" height="9.2"/>
+<text transform="matrix(1 0 0 1 146.1914 162.3525)" class="st0 st13 st14">REPAIR</text>
+<rect x="143.2" y="99.8" class="st9" width="66.2" height="18.5"/>
+<text transform="matrix(1 0 0 1 143.1914 105.4775)"><tspan x="0" y="0" class="st0 st13 st14">LONG </tspan><tspan x="0" y="9.6" class="st0 st13 st14">DISTANCE</tspan></text>
+<rect x="143.2" y="62.2" class="st9" width="85.7" height="35.8"/>
+<text transform="matrix(1 0 0 1 143.1914 67.9775)"><tspan x="0" y="0" class="st0 st13 st14">LOCAL SERVICE</tspan><tspan x="0" y="9.6" class="st0 st13 st14">COLLECT</tspan><tspan x="0" y="19.2" class="st0 st13 st14">DIAL 0+ NUMBER</tspan></text>
+<rect x="122.2" y="266.2" class="st9" width="66.2" height="9.2"/>
+<rect x="304.4" y="67.3" class="st9" width="83.3" height="11.1"/>
+<text transform="matrix(1 0 0 1 304.3604 74.4727)" class="st0 st13 st15">LONG DISTANCE</text>
+<rect x="415.9" y="66.3" class="st9" width="83.3" height="11.1"/>
+<text transform="matrix(1 0 0 1 415.8691 73.4727)" class="st0 st13 st15">LOCAL SERVICE</text>
+</svg>
